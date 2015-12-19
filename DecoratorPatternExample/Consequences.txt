@@ -1,0 +1,6 @@
+Consequences
+
+1. The original is unaware of any decorations.
+2. There is no one big feature-laden class with all the option in it.
+3. The decorations can be composed together in a mix-and-match fashion.
+4. Can increase complexity of code.

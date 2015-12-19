@@ -1,0 +1,15 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\bin\Debug\MementoPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\bin\Debug\MementoPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\bin\Debug\MementoPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MainWindow.baml
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MainWindow.g.cs
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\App.g.cs
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample_MarkupCompile.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample.g.resources
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample.Properties.Resources.resources
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample.csproj.GenerateResource.Cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MementoPatternExample\obj\Debug\MementoPatternExample_MarkupCompile.lref

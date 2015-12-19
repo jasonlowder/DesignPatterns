@@ -1,0 +1,14 @@
+When to use:
+
+1. When you have many objects of a similar type that need to communicate with each toher
+2. The communication between objects is complex.
+
+Components:
+
+1. Colleagues
+	Individual components that need to communicate with each other
+	Implement the same base type (abstract class or interface)
+	Have knowledge of the Mediator component
+2. Mediator
+	The centralized componet that manages communication between the colleague components.
+	Implements an abstraction that is used by the Colleague components.

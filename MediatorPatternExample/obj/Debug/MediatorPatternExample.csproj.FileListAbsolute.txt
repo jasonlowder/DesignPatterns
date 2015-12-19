@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MediatorPatternExample\bin\Debug\MediatorPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MediatorPatternExample\bin\Debug\MediatorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MediatorPatternExample\bin\Debug\MediatorPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MediatorPatternExample\obj\Debug\MediatorPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MediatorPatternExample\obj\Debug\MediatorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\MediatorPatternExample\obj\Debug\MediatorPatternExample.pdb

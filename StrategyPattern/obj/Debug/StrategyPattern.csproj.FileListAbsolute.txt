@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

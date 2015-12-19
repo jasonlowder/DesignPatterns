@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\CompositPatternExample\bin\Debug\CompositPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\CompositPatternExample\bin\Debug\CompositPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\CompositPatternExample\bin\Debug\CompositPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\CompositPatternExample\obj\Debug\CompositPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\CompositPatternExample\obj\Debug\CompositPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\CompositPatternExample\obj\Debug\CompositPatternExample.pdb

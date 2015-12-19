@@ -1,0 +1,5 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NullPatternExample\bin\Debug\NullPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NullPatternExample\bin\Debug\NullPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NullPatternExample\bin\Debug\NullPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NullPatternExample\obj\Debug\NullPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NullPatternExample\obj\Debug\NullPatternExample.pdb

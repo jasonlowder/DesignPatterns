@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BridgePatternExample\bin\Debug\BridgePatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BridgePatternExample\obj\Debug\BridgePatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BridgePatternExample\bin\Debug\BridgePatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BridgePatternExample\bin\Debug\BridgePatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BridgePatternExample\obj\Debug\BridgePatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BridgePatternExample\obj\Debug\BridgePatternExample.pdb

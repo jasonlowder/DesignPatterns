@@ -1,0 +1,6 @@
+When to use?
+
+1. Groups or collections
+2. Can you add an interface?
+3. Trees
+4. Distribution

@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\VisitorPatternExample\bin\Debug\VisitorPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\VisitorPatternExample\bin\Debug\VisitorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\VisitorPatternExample\bin\Debug\VisitorPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\VisitorPatternExample\obj\Debug\VisitorPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\VisitorPatternExample\obj\Debug\VisitorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\VisitorPatternExample\obj\Debug\VisitorPatternExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\InterpreterPatternExample\bin\Debug\InterpreterPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\InterpreterPatternExample\bin\Debug\InterpreterPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\InterpreterPatternExample\bin\Debug\InterpreterPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\InterpreterPatternExample\obj\Debug\InterpreterPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\InterpreterPatternExample\obj\Debug\InterpreterPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\InterpreterPatternExample\obj\Debug\InterpreterPatternExample.pdb

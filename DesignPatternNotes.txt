@@ -1,0 +1,8 @@
+Design Pattern Notes
+
+Observer Pattern
+When to use
+	When you need many other objects to receive an update when another object changes
+		Stock market with thousands of stocks needs to send update to object representing individual stocks
+		The Subject (publisher) sends many stocks to the Observers
+		The Observers (subscribers) takes the ones they want and use them

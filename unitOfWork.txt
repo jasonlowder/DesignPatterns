@@ -1,0 +1,10 @@
+Why??
+
+Track changes in persistent objects
+	Efficent data access
+	Manage concurancy problems
+	Manage transactions
+	
+	var employee = repository.FindEmployeeById(id);
+	employee.Name = newName;
+	unitOfWork.Commit();

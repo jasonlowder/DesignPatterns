@@ -1,0 +1,36 @@
+When to use it?
+
+1. It would be useful to rollback one or more objects within your application to a previous state (for example, to implement Undo)
+2. Providing Undo functionality within one or more classes would violate the Single Responsibility Principle.
+3. Providing full access to objects' internal state violates the encapsulation principle.
+4. The memento pattern describes a way to capture objects' internal state without violating encapsulation or SRP.
+5. You need to be able to track the state of an object or your application and restore previous states as needed.
+6. You want to abstract and reuse the Undo/Redo functionality.
+	Follow SRP and Don't Repeat Yourself (DRY)
+7. You do not wish to break encapsulation and expose your classes' internal state globally.
+
+Players:
+
+The Memento itself simply holds the state of the Originator
+	Ideally, only the originator should have access to the internal details of its state within the Memento.
+	The Caretaker's interface to Memento should not allow it ot access the internal state of the Originator.
+
+The Originator can create Mementos or restore its state given a Memento.
+
+The Caretaker maintains the Memento objects without operating on the contents.
+
+Collaboration
+
+A Caretaker requests a Memento from the Originator.
+The Caretaker stores one or more Mementos until they are needed.
+If or when required, the Caretaker passes a Memento back to the Originator.
+Mementos should be Value Objects, holding state but no behavior.
+Only the Originator that created a Memento should assign or retrieve its state.
+
+Consequences
+
+The Memento Pattern shields other objects from 	potentially complex internal state of the Origninator (Good)
+As opposed to the Originator maintaining versions of its internal state, the Memento pattern keeps Originator simpler (Good)
+Creating and restoring state may be expensive. Memento may not be appropriate when state contains a large amount of information. (Bad)
+It may be difficult to ensure only the Originator can access a Memento's state
+Caretaker is responsible for managing Mementos, but has no idea how big or small they may be

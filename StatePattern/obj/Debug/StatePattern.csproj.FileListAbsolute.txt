@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\StatePattern\obj\Debug\StatePattern.pdb

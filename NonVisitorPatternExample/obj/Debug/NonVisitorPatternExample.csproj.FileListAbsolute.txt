@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NonVisitorPatternExample\bin\Debug\NonVisitorPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NonVisitorPatternExample\bin\Debug\NonVisitorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NonVisitorPatternExample\bin\Debug\NonVisitorPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NonVisitorPatternExample\obj\Debug\NonVisitorPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NonVisitorPatternExample\obj\Debug\NonVisitorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\NonVisitorPatternExample\obj\Debug\NonVisitorPatternExample.pdb

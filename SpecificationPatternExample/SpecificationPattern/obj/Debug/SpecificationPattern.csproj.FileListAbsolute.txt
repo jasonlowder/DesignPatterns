@@ -1,0 +1,7 @@
+D:\Presentations\DimeCasts\SpecificationPattern\SpecificationPattern\obj\Debug\ResolveAssemblyReference.cache
+D:\Presentations\DimeCasts\SpecificationPattern\SpecificationPattern\bin\Debug\SpecificationPattern.dll
+D:\Presentations\DimeCasts\SpecificationPattern\SpecificationPattern\bin\Debug\SpecificationPattern.pdb
+D:\Presentations\DimeCasts\SpecificationPattern\SpecificationPattern\bin\Debug\nunit.framework.dll
+D:\Presentations\DimeCasts\SpecificationPattern\SpecificationPattern\bin\Debug\nunit.framework.xml
+D:\Presentations\DimeCasts\SpecificationPattern\SpecificationPattern\obj\Debug\SpecificationPattern.dll
+D:\Presentations\DimeCasts\SpecificationPattern\SpecificationPattern\obj\Debug\SpecificationPattern.pdb

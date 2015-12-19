@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPatternExample\bin\Debug\DecoratorPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPatternExample\bin\Debug\DecoratorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPatternExample\bin\Debug\DecoratorPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPatternExample\obj\Debug\DecoratorPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPatternExample\obj\Debug\DecoratorPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\DecoratorPatternExample\obj\Debug\DecoratorPatternExample.pdb

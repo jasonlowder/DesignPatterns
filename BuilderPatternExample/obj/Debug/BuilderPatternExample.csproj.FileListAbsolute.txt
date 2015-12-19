@@ -1,0 +1,6 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BuilderPatternExample\bin\Debug\BuilderPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.pdb
