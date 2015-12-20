@@ -1,12 +1,6 @@
-﻿using FactoryPatternExample;
-using FactoryPatternExample.Autos;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FactoryPatternExample.Autos;
 
-namespace FactoryPatternExample.Factory
+namespace FactoryPatternExample.Factories
 {
     class MiniCooperFactory : IAutoFactory
     {

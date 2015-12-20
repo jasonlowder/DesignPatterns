@@ -4,3 +4,9 @@ C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\AbstractFato
 C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\AbstractFatoryPatternExample\bin\Debug\AbstractFatoryPatternExample.pdb
 C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\AbstractFatoryPatternExample\obj\Debug\AbstractFatoryPatternExample.exe
 C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\AbstractFatoryPatternExample\obj\Debug\AbstractFatoryPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\AbstractFatoryPatternExample\bin\Debug\AbstractFatoryPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\AbstractFatoryPatternExample\bin\Debug\AbstractFatoryPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\AbstractFatoryPatternExample\bin\Debug\AbstractFatoryPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\AbstractFatoryPatternExample\obj\Debug\AbstractFatoryPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\AbstractFatoryPatternExample\obj\Debug\AbstractFatoryPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\AbstractFatoryPatternExample\obj\Debug\AbstractFatoryPatternExample.pdb

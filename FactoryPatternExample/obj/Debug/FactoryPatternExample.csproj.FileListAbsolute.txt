@@ -4,3 +4,9 @@ C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\FactoryPatte
 C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\FactoryPatternExample\obj\Debug\FactoryPatternExample.csprojResolveAssemblyReference.cache
 C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\FactoryPatternExample\obj\Debug\FactoryPatternExample.exe
 C:\Users\jason\Documents\Visual Studio 2012\Projects\DesignPatterns\FactoryPatternExample\obj\Debug\FactoryPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\FactoryPatternExample\bin\Debug\FactoryPatternExample.exe.config
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\FactoryPatternExample\bin\Debug\FactoryPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\FactoryPatternExample\bin\Debug\FactoryPatternExample.pdb
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\FactoryPatternExample\obj\Debug\FactoryPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\FactoryPatternExample\obj\Debug\FactoryPatternExample.exe
+C:\Users\jason\Documents\Visual Studio 2013\Projects\DesignPatterns\FactoryPatternExample\obj\Debug\FactoryPatternExample.pdb
